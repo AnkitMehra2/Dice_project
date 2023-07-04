@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 100vh;
+    background-size: 100%, 20%;
+}
+.container{
+    height: 100vh;
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+}
+.diceArea{
+    height: 55vh;
+    width: 400px;
+    background-color: red;
+    align-items: center;
+    display: inline;
+    margin: 6px;
+    padding: 6px;
+    
+}
+img{
+    width: 150px;
+    height:auto;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+p{
+    text-align: center;
+    
+}
+button{
+    background-color: brown;
+    margin: 6px;
+    padding: 6px;
+}
